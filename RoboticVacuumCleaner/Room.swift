@@ -8,6 +8,7 @@
 import Foundation
 
 class Room {
+    
     var id: Int
     var isClean: Bool
     

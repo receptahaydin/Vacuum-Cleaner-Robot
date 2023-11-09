@@ -8,6 +8,7 @@
 import Foundation
 
 class Robot {
+    
     var isActive: Bool
     var roomList: [Room]
     
